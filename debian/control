@@ -1,0 +1,15 @@
+Source: erlang-idna
+Section: devel
+Priority: extra
+Maintainer: Aleksey Morarash <aleksey.morarash@envisionx.co>
+Build-Depends: debhelper (>= 8.0.0), erlang-base, erlang-tools
+Standards-Version: 3.9.3
+Homepage: https://github.com/benoitc/erlang-idna
+Vcs-Browser: https://github.com/benoitc/erlang-idna
+Vcs-Git: https://github.com/benoitc/erlang-idna.git
+
+Package: erlang-idna
+Architecture: all
+Depends: erlang-base
+Description: A pure Erlang IDNA implementation
+ A pure Erlang IDNA implementation.

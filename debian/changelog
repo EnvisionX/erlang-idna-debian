@@ -1,0 +1,5 @@
+erlang-idna (1.0.1) unstable; urgency=low
+
+  * Initial release for Debian.
+
+ -- Aleksey Morarash <aleksey.morarash@envisionx.co>  Sat, 08 Nov 2014 22:23:00 +0200
